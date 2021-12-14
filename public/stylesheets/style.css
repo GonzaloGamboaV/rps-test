@@ -20,5 +20,7 @@ a {
 img {
   width: 200px;
   height: 250px;
-
+}
+.random {
+  font-size:30px;
 }
